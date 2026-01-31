@@ -19,5 +19,9 @@
 - Q&A about implementation details
 - Niche Solana functionality documentation
 
+## Workspace
+- GitHub: https://github.com/0x0tto/workspace
+- Local: `~/.openclaw/workspace/`
+
 ## Tags
 #solana #trading #electron #automation #jackal
