@@ -1,0 +1,11 @@
+---
+type: inception
+timestamp: '2026-01-31T05:53:12.612814+00:00'
+summary: Otto memory system initialized
+tags:
+- setup
+- memory
+- infrastructure
+---
+
+Git-notes-memory system installed and configured for workspace. Uses local sentence-transformers and sqlite-vec.
